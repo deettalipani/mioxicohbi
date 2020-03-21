@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keinijeux.tandy600.com/sitemap.xml
